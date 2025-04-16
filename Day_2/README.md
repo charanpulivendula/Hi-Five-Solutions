@@ -5,6 +5,11 @@ This project is a real-time cricket dashboard simulation using WebSockets with *
 
 ---
 
+https://github.com/user-attachments/assets/ff0b41cc-207a-4b49-8c80-4bd6437b8b2b
+
+
+
+
 ## 1. How WebSockets Work
 
 ### WebSockets provide full-duplex communication between a client and a server.

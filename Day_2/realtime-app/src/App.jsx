@@ -34,7 +34,7 @@ export default function App() {
     <Container maxWidth="sm" style={{ textAlign: "center", marginTop: "50px" }}>
       <Card variant="outlined" sx={{ padding: 3, boxShadow: 3 }}>
         <CardContent>
-          <Typography variant="h4" gutterBottom>CricFuzz Dashboard</Typography>
+          <Typography variant="h4" gutterBottom>Live Cricket Dashboard</Typography>
           <Typography variant="h5">Score: <strong>{score} runs</strong></Typography>
           <Typography variant="h5" >Wickets: <strong>{wickets}</strong></Typography>
           <Button
